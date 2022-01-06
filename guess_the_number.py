@@ -1,5 +1,5 @@
 
-a = 9
+a = 3
 
 print(__name__)
 print(__name__)
